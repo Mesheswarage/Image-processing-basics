@@ -10,9 +10,9 @@ A comprehensive Jupyter Notebook showcasing fundamental image processing techniq
 
 ## Dependencies
 
--Python 3.x
--Jupyter Notebook
--OpenCV
--Pillow (PIL)
--scipy
--scikit-image(skimage) 
+- Python 3.x
+- Jupyter Notebook
+- OpenCV
+- Pillow (PIL)
+- scipy
+- scikit-image(skimage) 
