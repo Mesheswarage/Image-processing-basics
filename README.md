@@ -1,5 +1,5 @@
 # Image-processing-basics
-A comprehensive Jupyter Notebook showcasing fundamental image processing techniques, including library usage, filtering, cropping, and various adjustments. Ideal for beginners to explore the basics of image manipulation.
+A Jupyter Notebook which showcases fundamental image processing techniques, including library usage, filtering, cropping, and various adjustments. Ideal for beginners to explore the basics of image manipulation.
 
 ## Topics Covered
 
